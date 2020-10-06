@@ -1,2 +1,6 @@
 # WoodSmell
-I have to write this file
+It is included:
+
+* Raw Data
+* Feature Extracted Data
+* Augmented Feature Extracted Data
